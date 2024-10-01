@@ -1,0 +1,280 @@
+@import url('https://fonts.googleapis.com/css2?family=New+Amsterdam&display=swap');
+
+@font-face {
+    font-family: droid;
+    src: url(fontes/AdiCupQ2022.ttf);
+}
+
+
+body{
+
+background-color: rgb(168, 216, 168);
+
+
+}
+
+.começo{
+
+    background-image: linear-gradient(to top, #1d4e19, #2a9e34);
+   text-align: center;
+   color: white;
+   font-family: "New Amsterdam", sans-serif;
+   padding: 10px;
+   margin: 10px;
+ 
+   margin: auto;
+   letter-spacing: 2px;
+   box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5);
+   
+
+  
+  
+ 
+   
+  
+
+}
+
+#home:hover{
+
+background-color: rgba(65, 192, 71, 0.26);
+border-radius: 5px;
+
+
+}
+
+ul{
+
+columns: 2;
+
+
+
+}
+
+
+    
+
+
+#noticias:hover{
+background-color: rgba(65, 192, 71, 0.26);
+border-radius: 5px;
+    
+    }
+
+ #curi:hover{
+
+background-color: rgba(65, 192, 71, 0.26);
+border-radius: 5px;
+        
+        }
+
+#fale:hover{
+
+background-color: rgba(65, 192, 71, 0.26);
+border-radius: 5px;
+            
+            }
+
+#p1{
+
+font-size: 13px;
+margin-bottom: 40px;
+
+text-shadow: 1px 1px 2px black;
+
+
+}
+
+#p2{
+
+text-align: left;
+font-weight: bold;
+height: 2px;
+font-size: 15px;
+word-spacing:10px;
+text-indent: 10px ;
+
+
+
+}
+
+h1{
+
+    font-size: 50px;
+    letter-spacing: 4px;
+    margin-bottom:10px;
+    
+}
+
+.resto{
+
+background-color: white;
+width: 80%;
+margin: auto;
+border-top: solid white;
+padding-bottom: 2%;
+box-shadow: 1px 1px 5px black;
+
+}
+
+
+#t1{
+
+    color: green;
+    margin: 5px;
+    font-size: 20px;
+    font-family: droid, 'Courier New', Courier, monospace;
+    letter-spacing: 2px;
+    word-spacing:2px;
+    text-indent: 10px ;
+
+
+}
+
+#p1texto{
+
+    font-family: Arial, Helvetica, sans-serif;
+    text-indent: 30px ;
+    margin: 10px;
+
+
+
+}
+
+#t2{
+
+    color: green;
+    margin: 5px;
+    font-size: 17px;
+    font-family: droid, 'Courier New', Courier, monospace;
+    letter-spacing: 2px;
+    word-spacing:2px;
+    text-indent: 10px ;
+    background-image: linear-gradient(to right, #a4e59e, #ffffff);
+   border-radius:10px ;
+    margin-top: 30px;
+
+
+
+}
+
+img{
+
+width: 100%;
+
+}
+
+#link{
+
+color: green;
+font-weight: bold;
+text-decoration: none;
+
+}
+
+#link:hover{
+
+background-color: rgba(16, 80, 16, 0.473);
+border-radius: 5px;
+
+}
+
+#link1{
+
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-decoration: none;
+    
+
+}
+
+#link1:hover{
+
+    background-color: rgba(255, 255, 255, 0.219);
+    border-radius: 5px;
+    
+    }
+
+#bugdroid{
+
+width: 250px;
+display: block;
+margin: auto;
+
+
+
+}
+
+#fundo{
+
+
+background-color: green;
+width: 100%;
+margin: auto;
+border-top: solid green;
+padding-top: 3%;
+padding-bottom: 3%;
+box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+#video{
+
+margin: auto;
+display: block;
+width: 90%;
+
+}
+
+#quermais{
+
+background-color: #2a9e34;
+color: white;
+font-weight: bold;
+
+font-size: 18px;
+padding: 10px;
+}
+
+#mais{
+
+    background-color: rgba(154, 211, 194, 0.692);
+    width: 90%;
+    margin: auto;
+    border-radius: 3%;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5);
+    padding-bottom: 3%;
+}
+
+
+
+
+
+#link2{
+
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-decoration: none;
+    
+
+}
+
+#link2:hover{
+
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    color: black;
+    
+    }
+
+#final{
+
+background-color: #1d4e19;
+width: 80%;
+margin: auto;
+color: white;
+text-align: center;
+margin-top: 10px;
+text-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5);
+box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5);
+}

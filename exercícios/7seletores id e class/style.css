@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+
+
+
+#amor > p{
+
+    display: none;
+}
+
+#amor:hover{
+
+    display: block;
+    color: rgb(214, 9, 60);
+  
+}
+
+#amor:hover > p{
+    display: block;
+    background-color: rgb(219, 87, 127);
+    color: black;
+    width: 100px;
+    border: 1px solid black;
+    text-align: center;
+   
+
+
+}
+
+a{
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+}
+
+a:visited{
+
+color: aqua;
+
+}
+a:hover{
+
+    text-decoration: underline;
+
+}

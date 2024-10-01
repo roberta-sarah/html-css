@@ -1,0 +1,79 @@
+body{
+
+background-color: grey;
+margin: none;
+}
+
+
+header{
+
+background-color: white;
+text-align: center;
+margin: auto;
+padding-top: 5px;
+}
+
+main{
+
+width: 500px;
+margin: auto;
+background-color: black;
+padding: 20px;
+margin-top: 2%;
+}
+
+nav{
+
+display: flex;
+gap: 5px 30px;
+padding-left: 2%;
+background-color: rgba(0, 0, 0, 0.178);
+font-size: 15px;
+
+}
+
+#series{
+
+background-color: white;
+padding: 10px;
+margin-top: 4%;
+
+
+}
+#filmes{
+
+background-color: white;
+padding: 10px;
+margin-top: 4%;
+}
+
+#fim{
+
+    background-color: white;
+    padding: 10px;
+    margin-top: 4%;
+    }
+
+    footer{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.178);
+    font-size: 15px;
+    padding: 1px;
+    margin-top: 1%;
+    color: white;
+    font-size: 15px;
+    }
+
+    a{
+
+
+    text-decoration: none;
+    color: rgb(224, 71, 71);
+    }
+
+    a:hover{
+
+    color: black;
+    background-color: rgb(224, 71, 71);
+
+    }
